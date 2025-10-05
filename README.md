@@ -1,4 +1,4 @@
 # Web-page
 
-Author - Mo Rijvan
+Author - Mo. Rijvan
 
